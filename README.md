@@ -10,8 +10,8 @@
 
 ## Результаты
 
-1. В результате "total bonus" выводится не верный резульат
-2. https://github.com/Sabbotage-cmd/homeworkjava2.2/issues/1
+1. <A href="https://github.com/Sabbotage-cmd/homeworkjava2.2/issues/1">Неверное значение в результате итогового бонуса</a>
 
 ## Общие рекомендации
+
 Рекомендаций нет
